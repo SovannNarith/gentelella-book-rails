@@ -7,10 +7,7 @@ environment.plugins.append(
     $: 'jquery',
     jQuery: 'jquery',
     Popper: ['popper.js', 'default']
-  }),
-  performance: {
-    hints: false
-  }
+  })
 )
 
 module.exports = environment
